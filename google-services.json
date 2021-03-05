@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32122450518",
+    "project_id": "screen-nav-with-firebase",
+    "storage_bucket": "screen-nav-with-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32122450518:android:888777046bfae4addb41f7",
+        "android_client_info": {
+          "package_name": "br.com.pratica.screen_nav_crud_server"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32122450518-qq1me2s9qb2qn2fvuu66a20tp2khfgde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxiBAIHtrkdiRInQXDDocti8kPPMmnMik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32122450518-qq1me2s9qb2qn2fvuu66a20tp2khfgde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
