@@ -87,7 +87,7 @@ public class MainActivity extends AppCompatActivity {
         protected void onPreExecute() {
             super.onPreExecute();
             progressDialog = progressDialog.show(MainActivity.this, "Aguarde",
-                    "confirmando pedido...", true, false);
+                    "carregando carros...", true, false);
         }
 
         @Override
